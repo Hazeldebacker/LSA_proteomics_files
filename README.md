@@ -2,12 +2,12 @@
 Jupyter notebooks and HTML exports for proteomics analyses (univariate, multivariate, and machine learning). This repository contains the final analysis notebooks and their HTML exports used to explore and model proteomics data.
 
 ## Repository contents
-- Final_Univariate_analysis.ipynb — Jupyter notebook of the univariate statistical analysis and visualizations.  
-- Final_Univariate_analysis.html — HTML export of the univariate notebook.  
-- Final_Multivariate_analysis.ipynb — Jupyter notebook of the multivariate analysis and visualizations.  
-- Final_Multivariate_analysis.html — HTML export of the multivariate notebook.  
-- Final_Machine_learning.ipynb — Jupyter notebook of the machine learning model and visualizations.  
-- Final_Machine_learning.html — HTML export of the machine learning notebook.
+- Final_Univariate_analysis.ipynb: Jupyter notebook of the univariate statistical analysis and visualizations.  
+- Final_Univariate_analysis.html: HTML export of the univariate notebook.  
+- Final_Multivariate_analysis.ipynb: Jupyter notebook of the multivariate analysis and visualizations.  
+- Final_Multivariate_analysis.html: HTML export of the multivariate notebook.  
+- Final_Machine_learning.ipynb: Jupyter notebook of the machine learning model and visualizations.  
+- Final_Machine_learning.html: HTML export of the machine learning notebook.
 
 > Note: Data files are not included in this repository. Open the notebooks to see the  data filenames that should be downloaded.
 
