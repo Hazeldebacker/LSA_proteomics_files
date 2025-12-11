@@ -18,4 +18,4 @@ These notebooks show the workflow to test the following hypotheses:
 - Final_Machine_learning: To what extent can clinical and proteomic biomarkers predict the likelihood that a COVID-19 patient will progress to a critical disease state?
 
 ## Requirements
-To run the notebooks, use jupyterlab (version 4.2.5, accessed via Anaconda Navigator). The required packages are stated at the beginning of each notebook.
+To run the notebooks, use jupyterlab (version 4.2.5, accessed via Anaconda Navigator). The required packages are stated at the beginning of each notebook or are placed before you run the code in a certain cell.
