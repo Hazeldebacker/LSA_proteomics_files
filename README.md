@@ -9,8 +9,6 @@ Jupyter notebooks and HTML exports for proteomics analyses (univariate, multivar
 - Final_Machine_learning.ipynb: Jupyter notebook of the machine learning model and visualizations.  
 - Final_Machine_learning.html: HTML export of the machine learning notebook.
 
-> Note: Data files are not included in this repository. Open the notebooks to see the  data filenames that should be downloaded.
-
 ## Purpose
 These notebooks show the workflow to test the following hypotheses:
 - Final_Univariate_analysis: Is Type 2 diabetes (T2D) more prevalent in critical COVID-19 cases than non-critical cases?
